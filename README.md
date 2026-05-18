@@ -25,41 +25,54 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
+<img width="701" height="193" alt="image" src="https://github.com/user-attachments/assets/ff160eba-b8a8-4252-b117-90eda179cec7" />
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 
+<img width="998" height="209" alt="image" src="https://github.com/user-attachments/assets/c42b5a15-4320-4e7e-b178-43da0ed8fbbd" />
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
+<img width="720" height="200" alt="image" src="https://github.com/user-attachments/assets/6dcf94d8-188a-4bfb-8ec2-35440d7e27a2" />
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
+<img width="838" height="221" alt="image" src="https://github.com/user-attachments/assets/6f22520e-5345-483d-8eb7-654462b8e68b" />
+
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+<img width="805" height="242" alt="image" src="https://github.com/user-attachments/assets/dee09d71-a069-46e1-aa56-f3d84494b1c1" />
+
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
+<img width="670" height="213" alt="image" src="https://github.com/user-attachments/assets/09497e84-e407-4470-b36a-8d89c8a5f9ee" />
+
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+<img width="755" height="188" alt="image" src="https://github.com/user-attachments/assets/948e3937-8d87-409b-9edb-8d14556f04fb" />
+
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
+<img width="729" height="537" alt="image" src="https://github.com/user-attachments/assets/7fe03b58-5565-44b6-bc8a-c58efad6e8db" />
 
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
+<img width="879" height="391" alt="image" src="https://github.com/user-attachments/assets/ea25272b-f4a2-462b-b6c3-63f635de2db5" />
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
