@@ -110,6 +110,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/9f244c95-a90b-438e-a1e6-2ec33015d535" />
 
 
 
@@ -122,6 +123,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+<img width="1818" height="865" alt="image" src="https://github.com/user-attachments/assets/b4748e1a-3d79-46b7-b25a-8d40044a6134" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -129,6 +131,8 @@ Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
 Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
+## OUTPUT
+<img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/1c6e7b6c-75fa-4082-93d7-58639d016c6e" />
 
 
 ## OUTPUT
